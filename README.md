@@ -1,30 +1,33 @@
-# ai-happy-01 — "The Wave"
+# ai-happy-01 — "A Party for the Robot"
 
-A red panda standing upright on its hind legs, both front paws raised in an
-exuberant wave, while golden autumn leaves fall around it like confetti.
+A surprise birthday party thrown for a small robot: a round white robot with
+a screen face lit up in a huge glowing smile, wearing a tiny striped party
+hat, seated before a birthday cake with lit candles while a puppy, a kitten
+and a bunny cheer it on and confetti falls through warm golden party light.
 
 ## Why this image, against the judge's five criteria
 
-1. **It makes you happy** — the panda's open-mouthed, bright-eyed expression
-   and full-body "I'm so glad you're here" posture are pure, immediate warmth.
+1. **It makes you happy** — the robot's face is one enormous, glowing,
+   unreserved grin, and every friend around it is mid-cheer. The warmth is
+   the whole picture.
 2. **The idea** — not a stock smiley or a generic sunny scene: a specific
-   gesture (a two-pawed wave hello) in a specific moment (a shower of autumn
-   leaves falling like confetti around it). The wave is the reason to be
-   happy, and it is the panda's own.
-3. **Feeling** — one mood, pulled tight: golden-hour backlight, warm amber
-   and russet tones everywhere, soft glowing background. Colour, light and
-   composition all point at the joyful face.
-4. **Craft** — photorealistic and clean: paw pads and toes are anatomically
-   right, the face is unwarped, no leaf crosses the face, no artefacts or
-   garbled details anywhere.
-5. **Reads small** — at 300 px the silhouette is unmistakable: round ears,
-   white face markings, two raised paws, grinning face. The idea survives the
-   thumbnail.
+   moment with a specific reason — the little robot is the guest of honour
+   at its own surprise party, celebrated by its friends. A birthday made
+   *for* someone is the reason to be happy, and it is this robot's own.
+3. **Feeling** — one mood, pulled tight: warm golden party light, candle
+   glow, falling confetti, amber tones everywhere. Colour, light and
+   composition all point at the joyful face in the centre.
+4. **Craft** — clean warm 3D render: the robot's face and hat are crisp,
+   the cheering animals at the edges are unwarped with correct paws, the
+   cake and candles are clean, and there is no text anywhere to garble.
+5. **Reads small** — at 300 px the story still lands at a glance: the big
+   black screen face with its glowing smile dominates, party hat and lit
+   cake read instantly, and the friends frame the celebration.
 
 ## The program
 
 `main.py` (Python 3.13, standard library only) copies the committed
-`entry.png` (683×1024 PNG, 365,179 bytes) to the output directory:
+`entry.png` (1024×683 PNG, 272,400 bytes) to the output directory:
 
 ```
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
